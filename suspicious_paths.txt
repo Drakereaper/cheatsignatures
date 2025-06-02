@@ -1,0 +1,6 @@
+C:\Users\%USERNAME%\Documents\AutoHotkey\*.ahk
+C:\Users\%USERNAME%\AppData\Roaming\Aimbot\*
+C:\Temp\injector.exe
+C:\Users\%USERNAME%\AppData\Roaming\Rewasd\*
+C:\Users\%USERNAME%\AppData\Local\XIM\*
+C:\Users\%USERNAME%\AppData\Local\Packages\MacroRecorder\*
